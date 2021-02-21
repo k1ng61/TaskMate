@@ -1,0 +1,8 @@
+export default {
+  SALMON: "#F65058",
+  DARK_YELLOW: "#FBDE44",
+  LIGHT_YELLOW: "#FFFCBA",
+  DARK_PURPLE: "#28334A",
+  TEAL: "#65E4CD",
+  THEME_ORANGE: "#FF6534",
+};
