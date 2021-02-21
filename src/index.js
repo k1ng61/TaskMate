@@ -16,14 +16,14 @@ import {
 } from "react-redux-firebase";
 
 const fbConfig = {
-  apiKey: "AIzaSyAXFPHxIzMoFqmuwAnrFnz_r-sVmCm6hOU",
-  authDomain: "quarantine-quest.firebaseapp.com",
-  databaseURL: "https://quarantine-quest.firebaseio.com",
-  projectId: "quarantine-quest",
-  storageBucket: "quarantine-quest.appspot.com",
-  messagingSenderId: "999469620312",
-  appId: "1:999469620312:web:60b169dcbf51fff39bbe2d",
-  measurementId: "G-R4J40HL7D5",
+  apiKey: ,
+  authDomain: ,
+  databaseURL: ,
+  projectId: ,
+  storageBucket: ,
+  messagingSenderId:,
+  appId: ,
+  measurementId: ,
 };
 
 const rrfConfig = {
